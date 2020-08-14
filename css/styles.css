@@ -1,0 +1,119 @@
+body {
+  margin: 0px;
+  background-color: #222831;
+  padding-top: 225px;
+}
+
+h1,
+h2,
+p,
+a {
+  font-family: "Fira Sans", sans-serif;
+}
+
+p {
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+  color: #00adb5;
+}
+
+.wrapper {
+  width: 720px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+h2 {
+  color: #00adb5;
+  font-weight: 400px;
+}
+
+p {
+  color: #eeeeee;
+}
+
+footer {
+  background-color: #393e46;
+  padding: 30px 0px 20px;
+  text-align: center;
+}
+
+footer p {
+  font-size: 14px;
+  margin-top: 30px;
+}
+
+a:hover {
+  color: white;
+}
+
+#attribute {
+  position: absolute;
+  left: 27%;
+  top: 150;
+  z-index: -1;
+}
+
+.title {
+  font-family: "Caveat", sans-serif;
+  font-size: 4.5rem;
+  color: white;
+}
+
+.section {
+  margin-bottom: 180px;
+}
+
+#top img {
+  border-radius: 100%;
+  margin-left: 30px;
+  float: right;
+}
+
+.skill-satu img {
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-dua img {
+  float: right;
+  margin-left: 30px;
+}
+
+.clear {
+  clear: both;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.cta {
+  text-align: center;
+}
+
+.cta p {
+  width: 70%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.social-links {
+  margin: 0px 12px 20px;
+}
+
+.btn {
+  background-color: #00adb5;
+  padding: 12px 30px;
+  border-radius: 5px;
+  color: white;
+  display: inline-block;
+}
